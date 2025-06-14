@@ -34,7 +34,6 @@ This project is built using:
 - Next.js – React framework for full-stack development
 - Firebase – For authentication and backend data
 - Tailwind CSS – Utility-first styling
-- Vapi AI – Voice-powered AI interview agents
 - Google Gemini – AI for generating questions and feedback
 - shadcn/ui – Pre-built UI components
 - Zod – Schema validation for safer data handling
